@@ -3,7 +3,7 @@
 A simple Chrome extension that helps you save and manage important website links (leads) directly from your browser using local storage.  
 
 ## 🚀 Demo  
-![Demo Screenshot](<img src="C:\Users\ACER\OneDrive\文件\Learn WebD\Learn Javascript\Chrome-extension\images">)  
+![Demo Screenshot](images/screenshot.png)  
 
 ## ✨ Features  
 - Save links manually or directly from the current tab  
